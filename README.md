@@ -4,9 +4,9 @@
     This project was done during my front-end bootcamp, it simulates a static LandinPage to a fictional rentar car company.
  
 
-## Surge url: [Link do site](http://4cars.surge.sh/)
+## Surge url: 
 
-[Click here](large-dirt.surge.sh)
+[Click here](http://4cars.surge.sh/)
 
 
 ## What Technologies were used?
